@@ -1,0 +1,60 @@
+
+header, footer {
+  padding: 1em;
+  color: white;
+  background-color: black;
+  clear: left;
+  text-align: left;
+  font-style: oblique;
+  font-family: inherit;
+}
+
+nav {
+  float: left;
+  max-width: 160px;
+  margin: 0;
+  padding: 1em;
+}
+
+h4 {
+text-align: left;
+font-family: inherit;
+text-align: left;
+}
+
+div.image {
+float: left;
+text-align: center;
+font-size: smaller;
+font-style: italic;
+width: 100px;
+margin: 0.5em;
+padding: 15px;
+clear: none;
+}
+
+img {
+float: left;
+text-align: center;
+font-size: smaller;
+font-style:normal;
+width: 100px;
+height: 100px;
+margin: 0.5em;
+padding: 15px;
+clear: none;
+}
+
+div.column1 {
+padding-top: 250px;
+text-align: justify;
+float: left;
+width: 425px;
+}
+
+div.column2{
+text-align: justify;
+float: right;
+width: 425px;
+padding-left: 100px;
+}
