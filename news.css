@@ -5,7 +5,7 @@ header, footer {
   background-color: black;
   clear: left;
   text-align: left;
-  font-style: oblique;
+  font-style: italic;
   font-family: inherit;
 }
 
@@ -37,7 +37,7 @@ img {
 float: left;
 text-align: center;
 font-size: smaller;
-font-style:normal;
+font-style:oblique;
 width: 100px;
 height: 100px;
 margin: 0.5em;
